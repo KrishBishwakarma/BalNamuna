@@ -1,5 +1,8 @@
-div {
+#maindiv{
   color: white;
   background-color:blue ;
   text-align:center;
+}
+#img_co{
+  height: 250px;
 }
