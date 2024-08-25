@@ -5,4 +5,8 @@
 }
 #img_co{
   height: 250px;
+  align-items: center;
+}
+img{
+  border:solid red 10px;
 }
