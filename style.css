@@ -3,7 +3,7 @@
   text-align:center;
 }
 #img_co{
-  height: 250px;
+  height: 360px;
   align-items: center;
 }
 img{
@@ -17,6 +17,7 @@ img{
 }
 
 
-body{
-  margin: 0, 0, 0,;
+#info{
+  background-color: skyblue;
+  height: 360px;
 }
