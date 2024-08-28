@@ -1,6 +1,5 @@
 #maindiv{
-  color: white;
-  background-color:blue ;
+  
   text-align:center;
 }
 #img_co{
@@ -9,4 +8,10 @@
 }
 img{
   border:solid red 20px;
+}
+#home{
+  height:100%;
+  width: 100%;
+  color: white; 
+  background-color: blue;
 }
