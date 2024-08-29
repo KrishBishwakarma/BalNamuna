@@ -5,6 +5,7 @@
 #img_co{
   height: 360px;
   align-items: center;
+  margin-bottom: 130px;
 }
 img{
   border:solid red 3px
@@ -21,5 +22,5 @@ img{
 
   background-color: skyblue;
   height: 360px;
-  margin-top: 130px;
+
 }
